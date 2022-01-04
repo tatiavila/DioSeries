@@ -1,0 +1,16 @@
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.exe
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.deps.json
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.json
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.dev.json
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.dll
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\ref\DioSeries.dll
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\bin\Debug\net5.0\DioSeries.pdb
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.csproj.AssemblyReference.cache
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfoInputs.cache
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfo.cs
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.csproj.CoreCompileInputs.cache
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.dll
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\ref\DioSeries.dll
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.pdb
+D:\Meus Documentos D\Programação\DIO\Take Blip Fullstack Developer #2\Criando um APP simples de cadastro de séries em .NET\DioSeries\DioSeries\obj\Debug\net5.0\DioSeries.genruntimeconfig.cache
